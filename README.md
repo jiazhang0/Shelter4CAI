@@ -37,7 +37,7 @@ Shelter旨在通过可信执行环境（TEE）保护敏感程序和数据的安�
 
 **以下预期目标都是建议性的，学生可以选择其中一项或者多项。选择本项目的同学也可与导师联系，提出自己的新想法，如导师认可，可加入预期目标。**
 
-在本课题中，参赛团队的任务是为 Confidential AI 提供 Shelter 方案支持，将 Confidential AI 的相关功能和应用迁移到 Shelter 构建的机密虚拟机（CVM）环境中，确保 AI 模型和数据在云端的安全性和隐私性得到充分保障。参赛团队需要深入理解 Confidential AI 方案的技术架构，以及 Shelter 的设计理>念和现有实现机制，通过技术手段完成目标。
+在本课题中，参赛团队的任务是为 Confidential AI 提供 Shelter 方案支持，将 Confidential AI 的相关功能和应用迁移到 Shelter 构建的机密虚拟机（CVM）环境中，确保 AI 模型和数据在云端的安全性和隐私性得到充分保障。参赛团队需要深入理解 Confidential AI 方案的技术架构，以及 Shelter 的设计理念和现有实现机制，通过技术手段完成目标。
 
 预期目标：
 - Shelter 支持 Confidential AI
